@@ -339,9 +339,9 @@ $(function() {
         mixins: [VueTRON],
         el: '#root',
         data: {
-            default_ref: 'TVtQ6qCsR2yVxf53GostDqH9QR6mYaP4SS',
-            ref: 'TVtQ6qCsR2yVxf53GostDqH9QR6mYaP4SS',
-            contract_address: 'TUMatgmcCgc3q6XS4iECadPB3upb1wZwpQ', // TTzv1Vpnvpqu6wCqzUFZpSVnBrunEiSeGA
+            default_ref: 'TYQJa6KMfJDfTnAkykuTVvKHS1ZUaZ6dCg',
+            ref: 'TYQJa6KMfJDfTnAkykuTVvKHS1ZUaZ6dCg',
+            contract_address: 'TRmwoiv3nnvrdQyiiEhXu6T6ceGZuC4h3E', // TTzv1Vpnvpqu6wCqzUFZpSVnBrunEiSeGA
             contract: {
                 users: 0,
                 invested: 0,
